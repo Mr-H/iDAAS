@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Platform Components
 parent: Design Principles
