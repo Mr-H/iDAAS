@@ -2,7 +2,7 @@
 layout: default
 title: General Capabilities
 parent: Design Principles
-nav_order: 5
+nav_order: 4
 description: "General Capabilities"
 ---
 
