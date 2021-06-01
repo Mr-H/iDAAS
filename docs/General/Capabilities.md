@@ -1,6 +1,7 @@
 ﻿---
 layout: default
 title: General Capabilities
+parent: UI Components
 nav_order: 5
 description: "General Capabilities"
 ---
