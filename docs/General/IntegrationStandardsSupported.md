@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Industry Standard Support
-nav_order: 6
+parent: Design Principles
+nav_order: 4
 description: "Industry Standard Support"
 ---
 
