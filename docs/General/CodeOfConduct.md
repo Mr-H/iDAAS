@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Code of Conduct
@@ -10,11 +9,8 @@ description: "Code of Conduct"
 
 If you have seen the Code of Conduct below it is because we looked at numerous plaxces and took several examples and roled up numerous things into one.
 <br/><br/>
-</div>
-    <br /><br />
-    <h4 class="display-6">General Code of Conduct Background</h4>
-    <div>
-        <p>
+# General Code of Conduct Background
+
             CONTRIBUTOR COVENANT CODE OF CONDUCT
             <b>Our Pledge</b><br/>
             We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability,
@@ -76,8 +72,4 @@ If you have seen the Code of Conduct below it is because we looked at numerous p
             This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at <a href="https://www.contributor-covenant.org/version/2/0/code_of_conduct.html" target="_blank">https://www.contributor-covenant.org/version/2/0/code_of_conduct.html</a> .
             Community Impact Guidelines were inspired by Mozilla�s code of conduct enforcement ladder.
             For answers to common questions about this code of conduct, see the FAQ at <a href="https://www.contributor-covenant.org/faq" target="_blank"> https://www.contributor-covenant.org/faq</a>. Translations are available at
-            <a href="https://www.contributor-covenant.org/translations" target="_blank">https://www.contributor-covenant.org/translations</a>.
-        </p>
-    </div>
-</body>
-</html>
+            <a href="https://www.contributor-covenant.org/translations" target="_blank">https://www.contributor-covenant.org/translations</a>
