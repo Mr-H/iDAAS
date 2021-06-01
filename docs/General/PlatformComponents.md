@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Design Principles
+title: Platform Components
 nav_order: 7
 description: "Platform Components"
 permalink: /

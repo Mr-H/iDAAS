@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Design Principles
+title: Technical Leadership
 nav_order: 8
 description: "Technical Leadership"
 permalink: /

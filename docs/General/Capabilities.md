@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Design Principles
+title: General Capabilities
 nav_order: 5
 description: "General Capabilities"
 permalink: /

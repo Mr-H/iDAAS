@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Design Principles
+title: Industry Standard Support
 nav_order: 6
-description: "INdustry Standard Support"
+description: "Industry Standard Support"
 permalink: /
 ---
 
