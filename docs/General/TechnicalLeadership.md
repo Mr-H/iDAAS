@@ -1,7 +1,8 @@
 ﻿---
 layout: default
 title: Technical Leadership
-nav_order: 8
+parent: Design Principles
+nav_order: 4
 description: "Technical Leadership"
 ---
 
