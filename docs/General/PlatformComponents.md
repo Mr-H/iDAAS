@@ -1,7 +1,8 @@
 ﻿---
 layout: default
 title: Platform Components
-nav_order: 7
+parent: Design Principles
+nav_order: 4
 description: "Platform Components"
 ---
 
