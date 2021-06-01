@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Technical Leadership
 parent: Design Principles
