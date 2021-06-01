@@ -3,7 +3,7 @@ layout: default
 title: Platform Components
 nav_order: 7
 description: "Platform Components"
-permalink: /
+has_children: true
 ---
 
 # Platform Components

@@ -3,7 +3,7 @@ layout: default
 title: General Capabilities
 nav_order: 5
 description: "General Capabilities"
-permalink: /
+has_children: true
 ---
 
 # General Capabilities

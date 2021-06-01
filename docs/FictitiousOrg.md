@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Design Principles
+title: Fictitious Org.
 nav_order: 3
 description: "Fictitious Organization"
 permalink: /

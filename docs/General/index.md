@@ -3,7 +3,7 @@ layout: default
 title: Design Principles
 nav_order: 4
 description: "Design Principles"
-permalink: /
+has_children: true
 ---
 
 ## Design Principles
