@@ -4,6 +4,7 @@ layout: default
 title: Code of Conduct
 nav_order: 2
 description: "Code of Conduct"
+has_children: true
 ---
 
 # Intelligent DaaS (Data As A Service) - Code of Conduct

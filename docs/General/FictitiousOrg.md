@@ -3,6 +3,7 @@ layout: default
 title: Fictitious Org.
 nav_order: 3
 description: "Fictitious Organization"
+has_children: true
 ---
 
 # Fictitious Org: Care Delivery Corp. US (Caduceus)
