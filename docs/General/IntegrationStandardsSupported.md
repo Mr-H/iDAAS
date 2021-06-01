@@ -3,7 +3,6 @@ layout: default
 title: Industry Standard Support
 nav_order: 6
 description: "Industry Standard Support"
-has_children: true
 ---
 
 # Intelligent DaaS (Data as a Service) Industry Standards Support

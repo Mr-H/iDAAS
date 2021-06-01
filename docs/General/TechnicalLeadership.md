@@ -3,7 +3,6 @@ layout: default
 title: Technical Leadership
 nav_order: 8
 description: "Technical Leadership"
-has_children: true
 ---
 
 # Red Hat Technical Leadership
