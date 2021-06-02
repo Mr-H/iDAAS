@@ -9,7 +9,8 @@ description: "Code of Conduct"
 
 If you have seen the Code of Conduct below it is because we looked at numerous plaxces and took several examples and roled up numerous things into one.
 <br/><br/>
-# General Code of Conduct Background
+
+## General Code of Conduct Background
 
             CONTRIBUTOR COVENANT CODE OF CONDUCT
             <b>Our Pledge</b><br/>

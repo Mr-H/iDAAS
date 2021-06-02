@@ -18,7 +18,7 @@ For far too long healthcare has struggled with being able to address the basic t
 <li> Innovation: There is a increasing need for companies to become more "friendly" whether that be technical or consumer based. Business is demanding more results and quicker!!!!
 <li> "Cloud": Whether it is the healthcare and life sciences companies or the vendors that support them the Cloud is continuing to see growing adoption with varying forms of usage and implementations.
 <br/>
-<img src="../../img/platform/iDAAS-Web-WordCloud.png" width="450" height="300"/>
+<img src="https://github.com/RedHat-Healthcare/iDAAS/blob/gh-pages/img/platform/iDAAS-Web-WordCloud.png" width="450" height="300"/>
 <br/><br/>
 Because of these transformational changes whether you are in the administrative, clinical, financial, or life sciences areas of healthcare information can no longer be the struggle that it has been, more than ever it is now and integral part of the healthcare business. As part of our effort, we wanted to ensure a focus around bringing the best capabilities to bear with the leading open-source platforms available. We believe it is time for data to be viewed as the asset and THE innovation enabler and driver. Now is the time for Intelligent DaaS (Data as a Service). It was born in January 2020 and designed as a means to help showcase how Red Hat's culture and technologies can enable healthcare and solve real world problems. Intelligent DaaS (Data as a Service) can be viewed as many things due to all the capabilities it enables. Most importantly for us Intelligent DaaS (Data as a Service) is all about introducing innovation through reusable frameworks, design patterns and implementations that will enable organizations to quickly start driving value with information. Intelligent DaaS (Data as a Service) is about enabling organizations to make data a product and build assets on top of it. Because <b>"Data is the asset!!!"</b> Intelligent DaaS (Data as a Service) is about enabling information for knowledge that can be used for action in a secure and scalable manner. Intelligent DaaS (Data as a Service) is a powerful set of healthcare industry design pattern/framework that is a blueprint for connecting, processing and leveraging clinical, financial, life sciences, and other needed data at scale to build solutions for today and tomorrow in a consistent manner. The ONLY limitation is your imagination and connecting to the data!!!!
 <br/>
@@ -29,7 +29,7 @@ Red Hat business is built around pulling from upstream communities and making te
 <a href="https://github.com/Project-Herophilus" target="_blank">Project-Herophilus</a>. As we surveyed the healthcare community we believe this is the right move for this effort long term. Also, by doing this we are already starting to plan on other needed industry capabilities to help drive change. This will help us better support the healthcare industry and enable greater capabilities to be developed. As we start this shift here is a visual that shows how to think about this.
 <br><br>
 <div align="center">
-<img src="../../img/platform/iDAASPlatform-Visuals-iDAASUpstream.png" width="850" height="650"/>
+<img src="https://github.com/RedHat-Healthcare/iDAAS/blob/gh-pages/img/platform/iDAASPlatform-Visuals-iDAASUpstream.png" width="850" height="650"/>
 </div>
 <br><br>
 We are so excited about the possibilities and potential. With all this being said, <b>it was important for our code to be completely open and available with Apache 2 License!!</b>
