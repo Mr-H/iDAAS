@@ -18,6 +18,7 @@ For far too long healthcare has struggled with being able to address the basic t
 * Healthcare comeptition: Companies that are competitors are now also aligning as partners. This can be due to acquisition(s), the shift into different market areas, contracts or various other drivers. 
 * Innovation: There is a increasing need for companies to become more "friendly" whether that be technical or consumer based. Business is demanding more results and quicker!!!!
 * "Cloud": Whether it is the healthcare and life sciences companies or the vendors that support them the Cloud is continuing to see growing adoption with varying forms of usage and implementations.
+https://github.com/RedHat-Healthcare/iDAAS/blob/master/images/iDAAS-Platform/DataFlow-FHIR.png
 
 <img src="https://github.com/RedHat-Healthcare/iDAAS/blob/master/images/iDAAS-Platform/iDAAS-Web-WordCloud.png" alt="Word Cloud" width="300" height="450" />
 
