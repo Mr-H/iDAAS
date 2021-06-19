@@ -2,7 +2,7 @@
 layout: default
 title: Platform Components
 parent: Design Principles
-nav_order: 4
+nav_order: 6
 description: "Platform Components"
 ---
 
