@@ -10,8 +10,9 @@ In order to ensure you can demonstrate capabilities in the real world it is impo
 
 ## Caduceus Vision Statement
 <i> “Provide our members easy access to the highest performing providers at an affordable cost."</i>
-<b>CADUCEUS Mission Statement:</b><br /></h4>
-<i>  “ Transform healthcare to a focus on wellness from a focus on sickness.”</i>
+
+## Caduceus Mission Statement
+<i> "Transform healthcare to a focus on wellness from a focus on sickness.”</i>
 <br/><br/>
 <p>
        CADUCEUS is a regional healthcare player that supports medical, dental, stop-loss,
