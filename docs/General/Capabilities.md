@@ -8,10 +8,7 @@ description: "General Capabilities"
 
 # General Capabilities
 As you saw on our <a href="~/home/Index" target="_blank">main page</a> in the Design Principals section we wanted to ensure we could deliver and maintain critical practices within any asset we delivered. With these design principals as our guide we also wanted to focus on how to ensure iDaaS platform was nimble, lightweight, and focused on capabilities to ensure healthcare market(s) needs could be addressed in a consistent manner.
-    <br/><br/>
-         <div align="center">
-             <img src="~/img/platform/iDAASPlatform-Visuals-iDAASDataTier-4Rs.png" width="850" height="650" />
-    <br/><br/>
+ 
 | Default | Left align | Center align | Right align |
 | - | :- | :-: | -: |
 | 9999999999 | 9999999999 | 9999999999 | 9999999999 |
