@@ -11,67 +11,25 @@ description: "Platform Components"
 component there is an implementation/running specific set of instructions.  <br />
 <i>Each component contains a link to the public Git Hub code repositories!!!</i>
 
-# Plaform Repositories
+# Platform Repositories
 These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development and implementation experience.
 
-|  Capability | Component  |Component Description |
+|Capability | Component  |Component Description |
 | - | :- | :- |
 |Demo-iDaaS| <a href="https://github.com/RedHat-Healthcare/iDaaS-Demos" target="_blank">iDaaS Demos| This repository is specifically designed to to maintain all the iDaaS platform demos. This repository contains demos for BlueButton, EDI, DREAM, FHIR, HL7, Route Data Distribution, and Third Party.|
+|iDaaS Connect|<a href="https://github.com/RedHat-Healthcare/iDaaS-Connect" target="_blank">iDaaS Connect </a>|This repository is specifically designed to to maintain all the iDaaS Connect components. This repository contains iDaaS Connect components for Audit and Compliance, BlueButton, EDI,  FHIR, HL7,, and Third Party.|
+|iDaaS Route|<a href="https://github.com/RedHat-Healthcare/iDaaS-Route" target="_blank">iDaaS Route - Data Distribution|This repository is specifically designed to test a subset of iDaaS Route components and capabilities.|
+|iDaaS DREAM|<a href="https://github.com/RedHat-Healthcare/iDAAS-DREAM" target="_blank">iDaaS DREAM Platform</a>|This repository is specifically designed for iDaaS DREAM components and capabilities.  Within this repository the is also the iDaaS Event Builder parsing, builder and generator code base.
+|iDaaS KIC|<a href="https://github.com/RedHat-Healthcare/iDaaS-KIC" target="_blank">iDaaS KIC (Knowledge, Insight and Conformance)</a></td>|This repository is specifically designed to specifically support all needed components for iDaaS KIC (Knowledge, Insight and Conformance). This specific capability is intended to enable auditing and reconciliation of anything the iDaaS platform is engaged in leveraging.|
+<br />
 
+# Implementation Based Repositories: Platform Components
+ These are the full specific repositories with all features enabled.
+ 
+|Capability | Component  |Component Description |
+| - | :- | :- |
 
-                  <td>iDaaS Connect </td>
-                    <td><a href="https://github.com/RedHat-Healthcare/iDaaS-Connect" target="_blank">iDaaS Connect </a></td>
-                    <td>
-                        This repository is specifically designed to to maintain all the iDaaS Connect components. This repository contains iDaaS
-                        Connect components for Audit and Compliance, BlueButton, EDI,  FHIR, HL7,, and Third Party.
-                    </td>
-                </tr>
-                <tr>
-                    <td>iDaaS Route</td>
-                    <td><a href="https://github.com/RedHat-Healthcare/iDaaS-Route" target="_blank">iDaaS Route - Data Distribution</a></td>
-                    <td>
-                        This repository is specifically designed to test a subset of iDaaS Route components and capabilities.
-                    </td>
-                </tr>
-                <tr>
-                    <td>iDaaS DREAM</td>
-                    <td><a href="https://github.com/RedHat-Healthcare/iDAAS-DREAM" target="_blank">iDaaS DREAM Platform</a></td>
-                    <td>
-                        This repository is specifically designed for iDaaS DREAM components and capabilities.  Within this repository the 
-                        is also the iDaaS Event Builder parsing, builder and generator code base.
-                    </td>
-                </tr>
-            <tr>
-                    <td> iDaaS KIC</td>
-                    <td><a href="https://github.com/RedHat-Healthcare/iDaaS-KIC" target="_blank">iDaaS KIC (Knowledge, Insight and Conformance)</a></td>
-                    <td>
-                        This repository is specifically designed to specifically support all needed components for iDaaS KIC (Knowledge, Insight and Conformance). 
-                        This specific capability is intended to enable auditing and reconciliation of anything the iDaaS platform is engaged in leveraging.
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    <br />
-
-    <h4 class="display-6">Implementation Based Repositories: Platform Components</h4>
-    <p>
-        These are the full specific repositories with all features enabled.
-    </p>
-    <br />
-    <div align="left">
-        <table class="table table-striped">
-            <thead class="thead-dark">
-                <tr>
-                    <th scope="col">Capability</th>
-                    <th scope="col">Component</th>
-                    <th scope="col">Component Desc.</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Receiving </td>
-                    <td><a href="https://github.com/RedHat-Healthcare/iDaaS-Connect/tree/master/iDaaS-Connect-HL7" target="_blank"> iDaaS Connect Clinical - HL7</a></td>
+|Receiving|<a href="https://github.com/RedHat-Healthcare/iDaaS-Connect/tree/master/iDaaS-Connect-HL7" target="_blank"> iDaaS Connect Clinical - HL7</a></td>
                     <td>
                         This iDaaS Connect accelerator specifically and ONLY supports the clinical integration standards of HL7.  From an integration connectivity and standards
                         perspective it has HL7 MLLP Servers that support the following types from any vendor and any specific message
