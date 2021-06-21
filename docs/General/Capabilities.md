@@ -12,6 +12,15 @@ As you saw on our <a href="~/home/Index" target="_blank">main page</a> in the De
          <div align="center">
              <img src="~/img/platform/iDAASPlatform-Visuals-iDAASDataTier-4Rs.png" width="850" height="650" />
     <br/><br/>
+| Default | Left align | Center align | Right align |
+| - | :- | :-: | -: |
+| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
+| 999999999 | 999999999 | 999999999 | 999999999 |
+| 99999999 | 99999999 | 99999999 | 99999999 |
+| 9999999 | 9999999 | 9999999 | 9999999 |
+
+
+
     As we express the capabilities we often refer to them as the four R’s:
     | Capability | Capability Area | Capability Description |
     | :------------- |:-------------:| :-----|
