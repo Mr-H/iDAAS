@@ -12,7 +12,7 @@ If you have seen the Code of Conduct below it is because we looked at numerous p
 
 ## General Code of Conduct Background
 
-            CONTRIBUTOR COVENANT CODE OF CONDUCT
+CONTRIBUTOR COVENANT CODE OF CONDUCT<br/>
             <b>Our Pledge</b><br/>
             We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability,
             ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
@@ -45,7 +45,7 @@ If you have seen the Code of Conduct below it is because we looked at numerous p
             This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include
             using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
             <br />
-            <b>Enforcement</b><br />
+            <b>Enforcement</b><br/>
             Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement via email. Please email alscott@redhat.com with a mail subject
             of CodeOfConduct Violation and within the details of your email please share as much content (including any screen shots or other support materials). All complaints will be
             reviewed and investigated promptly and fairly.  All community leaders are obligated to respect the privacy and security of the reporter of any incident.
@@ -57,15 +57,15 @@ If you have seen the Code of Conduct below it is because we looked at numerous p
             Community Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
             Consequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
             <br />
-            2. Warning<br />
+            1. Warning<br />
             Community Impact: A violation through a single incident or series of actions.
             Consequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
             <br />
-            3. Temporary Ban<br />
+            1. Temporary Ban<br />
             Community Impact: A serious violation of community standards, including sustained inappropriate behavior.
             Consequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
             <br />
-            4. Permanent Ban
+            1. Permanent Ban
             Community Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
             Consequence: A permanent ban from any sort of public interaction within the community.
             <br />

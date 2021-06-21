@@ -2,7 +2,7 @@
 layout: default
 title: Industry Standard Support
 parent: Design Principles
-nav_order: 4
+nav_order: 7
 description: "Industry Standard Support"
 ---
 
@@ -26,7 +26,7 @@ The Intelligent DaaS (Data as a Service) Platform has been tested and has the fo
 
 ## HL7
 |Message Trigger| Message Trigger Desc. | Message Details | Total Msg Triggers |
-|---------------| --------------------- | --------------- | ------------------ |
+|:---------------| :--------------------- | :--------------- | :------------------ |
 |<a href="https://datica.com/academy/hl7-201-the-admission-discharge-transfer-adt-message/" target="_blank">ADT</a> | Admissions, Discharges, Transfers | A01 to A61 Any v2 message version release | 60
 |<a href="https://datica.com/academy/hl7-203-the-hl7-orm-order-entry-message/" target="_blank">ORM</a> | Orders | Any v2 message version release | 4
 |<a href="https://www.lyniate.com/knowledge-hub/hl7-oru-message/" target="_blank">ORU</a> | Results| Any v2 message version release | 4
@@ -34,20 +34,15 @@ The Intelligent DaaS (Data as a Service) Platform has been tested and has the fo
 |<a href="http://www.hl7.eu/refactored/dom07.html" target="_blank">MFN</a> | Master File Notifications | Any v2 message version release | 5
 |<a href="https://www.lyniate.com/knowledge-hub/hl7-siu-message/" target="_blank">SIU</a> | Schedule | Any v2 message version release | 15 
 |<a href="https://hl7-definition.caristix.com/v2/HL7v2.3/TriggerEvents/VXU_V04" target="_blank">VXU</a> |Vaccinations | Any v2 message version release |1
-|||Total Message Support | 95
-<br>
 
-## FHIR
+## FHIR R4
 FHIR, Fast Healthcare Interoperability Resources, is the modern current healthcare industry standardization approach to
 move healthcare from the dark ages of client-server connectivity towards a REST based set of capabilities. 
 Unlike other attempts to modernize clinical integration standards FHIR is the future. It has been around for several years 
 and already has a very large vendor community supporting and adopting it. The industry adoption from 2020 going forward 
 adoption will dramatically increase with government mandates from CMS directly naming it as the means of compliance. 
 We have decided to focus on what CMS has defined as the standard for Interoperability and Patient Access final rule. 
-
-### FHIR Server
 A FHIR Server is not required for our implementation or CMS compliance; however, these servers can help organizations with capabilities they might need. The Intelligent DaaS (Data as a Service) Connect FHIR component is designed to connect to multiple vendor implementations of FHIR servers in a repeatable manner. 
-
 
 ### Clinical
 
@@ -146,3 +141,10 @@ A FHIR Server is not required for our implementation or CMS compliance; however,
 |<a href="https://www.hl7.org/fhir/testreport.html" target="_blank">Test Report</a> | 
 
 
+## EDI
+EDI for healthcare involves all the standard event support that comes for HIPAA compliant billing transactions like:
+We have also included support for Supply chain transactions. This support means you can parse, build and generate EDI based messages.
+It DOES NOT mean there is an EDI engine included within this platform. We provide facilities to support leveraging EDI data.
+
+## ePrescribe 
+The intent is to support 
