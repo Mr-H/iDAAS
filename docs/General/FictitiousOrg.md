@@ -14,8 +14,9 @@ In order to ensure you can demonstrate capabilities in the real world it is impo
 ## Caduceus Mission Statement
 <i> "Transform healthcare to a focus on wellness from a focus on sickness.”</i>
 <br/><br/>
-<p>
-       CADUCEUS is a regional healthcare player that supports medical, dental, stop-loss,
+
+## Caduceus General Background
+        CADUCEUS is a large regional healthcare player that supports medical, dental, stop-loss,
         vision and it also has a TPA. The company focuses on small group medical
         fee-for-service, but also administers large group ASO, and capitation. The current
         medical membership exceeds 2 million members. Currently, CADUCEUS is dealing with large healthcare insurer entrants, which are
