@@ -6,19 +6,7 @@ description: "Fictitious Organization"
 ---
 
 # Fictitious Org: Care Delivery Corp. US (Caduceus)
-
-    <p>
-        In order to ensure you can demonstrate capabilities in the real world it is important to have a
-        company that can help with this, in the 1990's Microsoft did this with
-        <a href="https://docs.microsoft.com/en-us/microsoft-365/enterprise/contoso-overview?view=o365-worldwide" target=_blank>
-       Contoso Corporation</a> and it has kept this fictitious 
-        org going ever since to fit its wide variety for product demonstrations. We wanted to ensure there was a real world market focus to build out relevant 
-        demonstrations and workshops for the frameworks, reference architectures and design patterns enabled by
-        Connected Health / iDaaS. To support this we created a multi-faceted fictitious healthcare company named Care Delivery Corp US, it’s
-        acronym is  <i>CADUCEUS (the medical symbol)</i>. The sole intent of our doing this is to have
-        practical healthcare enterprise scenarios that we can consistently build content around that can
-        resonate within the healthcare market.
-    </p>
+In order to ensure you can demonstrate capabilities in the real world it is important to have a company that can help with this, in the 1990's Microsoft did this with <a href="https://docs.microsoft.com/en-us/microsoft-365/enterprise/contoso-overview?view=o365-worldwide" target=_blank> Contoso Corporation</a> and it has kept this fictitious org going ever since to fit its wide variety for product demonstrations. We wanted to ensure there was a real world market focus to build out relevant demonstrations and workshops for the frameworks, reference architectures and design patterns enabled by Connected Health / iDaaS. To support this we created a multi-faceted fictitious healthcare company named Care Delivery Corp US, it’s acronym is  <i>CADUCEUS (the medical symbol)</i>. The sole intent of our doing this is to have practical healthcare enterprise scenarios that we can consistently build content around that can resonate within the healthcare market.
 
 ## Caduceus Vision Statement
   <i>
