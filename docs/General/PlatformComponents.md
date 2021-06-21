@@ -7,12 +7,12 @@ description: "Platform Components"
 ---
 
 # Platform Components
- iDaaS is a series of accelerators, because of this component based design, building with it or atop it is straight forward, repeatable and reusable. Within each iDaaS
-component there is an implementation/running specific set of instructions.  <br />
+ iDaaS is a series of accelerators, because of this component based design, building with it or atop it is straight forward, repeatable and reusable. Within each iDaaS component there is an implementation/running specific set of instructions.  <br />
 <i>Each component contains a link to the public Git Hub code repositories!!!</i>
 
 # Platform Repositories
 These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development and implementation experience.
+<img src="iDAAS-Web-WordCloud.png" alt="Word Cloud" width="450" height="450" align="center"/>
 
 |Capability | Component  |Component Description |
 | - | :- | :- |
