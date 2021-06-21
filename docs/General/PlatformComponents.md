@@ -7,44 +7,19 @@ description: "Platform Components"
 ---
 
 # Platform Components
-        <p>
-            iDaaS is a series of accelerators, because of this component based design, building with it
-            or atop it is straight forward, repeatable and reusable. Within each iDaaS
-            component there is an implementation/running specific set of instructions.  <br />
-            <i>Each component contains a link to the public Git Hub code repositories!!!</i>
-        </p>
-    </div>
+ iDaaS is a series of accelerators, because of this component based design, building with it or atop it is straight forward, repeatable and reusable. Within each iDaaS
+component there is an implementation/running specific set of instructions.  <br />
+<i>Each component contains a link to the public Git Hub code repositories!!!</i>
 
-    <h4 class="display-6">Demo Based Repositories: Platform Components</h4>
-    <br />
-    <div align="left">
-        <p>
-            These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we
-            focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development and
-            implementation experience.
-        </p>
-    </div>
-    <br />
-    <div align="left">
-        <table class="table table-striped">
-            <thead class="thead-dark">
-                <tr>
-                    <th scope="col">Capability</th>
-                    <th scope="col">Component</th>
-                    <th scope="col">Component Desc.</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Demo-iDaaS</td>
-                    <td><a href="https://github.com/RedHat-Healthcare/iDaaS-Demos" target="_blank">iDaaS Demos</a></td>
-                    <td>
-                        This repository is specifically designed to to maintain all the iDaaS platform demos. This repository contains demos for
-                        BlueButton, EDI, DREAM, FHIR, HL7, Route Data Distribution, and Third Party. 
-                    </td>
-                </tr>
-                <tr>
-                    <td>iDaaS Connect </td>
+# Plaform Repositories
+These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development and implementation experience.
+
+|  Capability | Component  |Component Description |
+| - | :- | :- |
+|Demo-iDaaS| <a href="https://github.com/RedHat-Healthcare/iDaaS-Demos" target="_blank">iDaaS Demos| This repository is specifically designed to to maintain all the iDaaS platform demos. This repository contains demos for BlueButton, EDI, DREAM, FHIR, HL7, Route Data Distribution, and Third Party.|
+
+
+                  <td>iDaaS Connect </td>
                     <td><a href="https://github.com/RedHat-Healthcare/iDaaS-Connect" target="_blank">iDaaS Connect </a></td>
                     <td>
                         This repository is specifically designed to to maintain all the iDaaS Connect components. This repository contains iDaaS
