@@ -14,6 +14,16 @@ Data Integration is all about Data Innovation and all the things that can be don
 
 # Common Links
 
+## General 
+
+| Tables        | Are          |
+| ------------- |:-------------|
+|[General Design]|(../docs/General/Capabilities.md)|
+
+
+[General Design](../docs/General/Capabilities.md)
+[General Design](../docs/General/Capabilities.md)
+[General Design](../docs/General/Capabilities.md)
 [General Design](../docs/General/Capabilities.md)
 
 ## General Background
