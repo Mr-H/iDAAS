@@ -9,14 +9,12 @@ description: "Fictitious Organization"
 In order to ensure you can demonstrate capabilities in the real world it is important to have a company that can help with this, in the 1990's Microsoft did this with <a href="https://docs.microsoft.com/en-us/microsoft-365/enterprise/contoso-overview?view=o365-worldwide" target=_blank> Contoso Corporation</a> and it has kept this fictitious org going ever since to fit its wide variety for product demonstrations. We wanted to ensure there was a real world market focus to build out relevant demonstrations and workshops for the frameworks, reference architectures and design patterns enabled by Connected Health / iDaaS. To support this we created a multi-faceted fictitious healthcare company named Care Delivery Corp US, it’s acronym is  <i>CADUCEUS (the medical symbol)</i>. The sole intent of our doing this is to have practical healthcare enterprise scenarios that we can consistently build content around that can resonate within the healthcare market.
 
 ## Caduceus Vision Statement
-  <i>
-        “ Provide our members easy access to the highest performing providers at an affordable cost.”
-    </i>
-    <h4 class="display-6"><b>CADUCEUS Mission Statement:</b><br /></h4>
-    <i>  “ Transform healthcare to a focus on wellness from a focus on sickness.”</i>
-    <br /><br/>
-    <p>
-        CADUCEUS is a regional healthcare player that supports medical, dental, stop-loss,
+<i> “Provide our members easy access to the highest performing providers at an affordable cost."</i>
+<b>CADUCEUS Mission Statement:</b><br /></h4>
+<i>  “ Transform healthcare to a focus on wellness from a focus on sickness.”</i>
+<br/><br/>
+<p>
+       CADUCEUS is a regional healthcare player that supports medical, dental, stop-loss,
         vision and it also has a TPA. The company focuses on small group medical
         fee-for-service, but also administers large group ASO, and capitation. The current
         medical membership exceeds 2 million members. Currently, CADUCEUS is dealing with large healthcare insurer entrants, which are
