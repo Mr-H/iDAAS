@@ -20,6 +20,6 @@ For decades across the various markets within healthcare (clinical, financial, p
 * Polyglot Language Support
 
 Here's how the differentiators are expressed in more detail:
-|||
+| Area | Description |
 |:--|:--|
 | Extensibility| The focus has been on building an extensible platform based on need and usage. The platform is just a series of components that are designed for purpose and can be connected, extended or new components developed as developers and business teams work together. Within the platform it is developed tocenable small to large and complex healthcare organizations to leverage this platform.|
