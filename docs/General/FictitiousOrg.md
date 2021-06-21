@@ -56,15 +56,11 @@ In order to ensure you can demonstrate capabilities in the real world it is impo
         digital engagement platform. Care Kiosk is an omni-channel solution for all lines of
         business to provide seamless real-time and near real-time communication to
         consumers, clinicians and caregivers.
-    </p>
     
 ## Business Challenges
-    <p>
         A cross-functional task force was convened to determine key use cases the
         transformation needed to address. The team agreed that a data driven approach was
         required. That decision forced CADUCEUS to address their data access issues
         immediately. Given the disparate architectures, numerous systems and business units
         several organizations are responsible for data. Reporting, Analytics, Data Science,
         Actuarial and IT resources were required to extract, transform and rationalize the data.
-    </p>
-</div>
