@@ -28,5 +28,5 @@ Here is another way to think about data innovation with intelligent Daas.
 |[Fictious Org.](../docs/General/FictiousOrg.md)|[Platform Components](../docs/Design/PlatformComponents.md)|
 |[Technical Leadership](../docs/General/Technical Leadership.md)|[Integration Standards Support](../docs/Design/IntegrationStandardsSupport.md)|
 
-
+<br/>
 Happy coding!!!!
