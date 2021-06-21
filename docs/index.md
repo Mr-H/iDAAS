@@ -9,9 +9,7 @@ permalink: /
 # Intelligent DaaS (Data as a Service)
 
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> built atop industry leading software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
-
 Data Integration is all about Data Innovation and all the things that can be done without data:
-
 <img src="iDAAS-Web-WordCloud.png" alt="Word Cloud" width="750" height="450"/>
 ## General Background
 For far too long healthcare has struggled with being able to address the basic task of accessing information quickly to help drive business decisions and capabilities. The typical focus across healthcare, has been and is, around the software providers enabling access to data via some form of integration, their technology, canned reports or other various capabilities. However, there is a growing business and technology requirements and need in near real-time for data access. For most types of organizations integration continues to be considered a very frustrating and sunk cost needed for business purposes. However, over the last decade its importance has grown substantially based on the current landscape shifts involving: 
