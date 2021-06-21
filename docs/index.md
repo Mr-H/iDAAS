@@ -6,7 +6,7 @@ description: "Main Page"
 permalink: /
 ---
 
-![title](../../images/iDAAS-Web-WordCloud.png)
+![title](https://github.com/RedHat-Healthcare/iDAAS/blob/gh-pages/images/iDAAS-Web-WordCloud.png)
 # Intelligent DaaS (Data as a Service)
 
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> built atop industry leading software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
