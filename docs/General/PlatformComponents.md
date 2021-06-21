@@ -12,7 +12,7 @@ description: "Platform Components"
 
 # Platform Repositories
 These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development and implementation experience.
-<img src="./iDAAS-Web-WordCloud.png" alt="Word Cloud" width="450" height="450" align="center"/>
+<img src="../iDAAS-Web-WordCloud.png" alt="Word Cloud" width="450" height="450" align="center"/>
 
 |Capability | Component  |Component Description |
 | - | :- | :- |
