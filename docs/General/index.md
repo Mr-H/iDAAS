@@ -8,34 +8,21 @@ has_children: true
 
 ## Design Principles
 
-For decades across the various markets within healthcare (clinical, financial, pharmacy and life sciences) integration has been a recurent and painful challenge for many organizations and across the healthcare industry in general. Within Red Hat there is a specific industry team dedicated to ensuring Red Hat's technologies meet the industry needs and ensuring its customers have meaningful platforms that demonstrate these capabilities, the Red Hat healthcare team. The focus of the team is enabling and
-empowering healthcare organizations to transform their organizations through infusing Red Hat's open organization, open source mindset and community based culture. As the Red Hat healthcare team started this journey they also wanted to ensure they could help showcase how Red Hat addressed the many variant and expansive needs of a healthcare organization.
-<br/><br/>
-We wanted to ensure there is a set of specific differentiators no matter for whatever would be build and maintain:
-<br/>
-    <p align="left">
-        <div align="left">
-            <ul>
-                <li>Extensibility</li>
-                <li>Scalability</li>
-                <li>Reduce Proprietary Technology, Knowledge and/or Skillsets</li>
-                <li>Open Source Enablement</li>
-                <li>Modern Application Development/Delivery Capabilities</li>
-                <li>Innovative Disruption without chaos</li>
-                <li>Deliver Consistency</li>
-                <li>Polyglot Language Support</li>
-            </ul>
-        </div>
-    </p>
+For decades across the various markets within healthcare (clinical, financial, pharmacy and life sciences) integration has been a recurent and painful challenge for many organizations and across the healthcare industry in general. Within Red Hat there is a specific industry team dedicated to ensuring Red Hat's technologies meet the industry needs and ensuring its customers have meaningful platforms that demonstrate these capabilities, the Red Hat healthcare team. The focus of the team is enabling and empowering healthcare organizations to transform their organizations through infusing Red Hat's open organization, open source mindset and community based culture. As the Red Hat healthcare team started this journey they also wanted to ensure they could help showcase how Red Hat addressed the many variant and expansive needs of a healthcare organization. We wanted to ensure there is a set of specific differentiators no matter for whatever would be build and maintain:
 
-        <div align="left">
-            Here's how the differentiators are expressed in more detail:
-            <br/><br/>
+* Extensibility
+* Scalability
+* Reduce Proprietary Technology, Knowledge and/or Skillsets
+* Open Source Enablement
+* Modern Application Development/Delivery Capabilities
+* Innovative Disruption without chaos
+* Deliver Consistency
+* Polyglot Language Support
 
-            <table class="table table-striped">
-                <thead class="thead-dark">
-                <tr>
-                    <th scope="col">Capability</th>
+Here's how the differentiators are expressed in more detail:
+
+
+<th scope="col">Capability</th>
                     <th scope="col">Capability Description</th>
                 </tr>
                 </thead>
