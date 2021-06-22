@@ -11,7 +11,7 @@ As we looked at the contributions and all the principals we had we quickly took 
 were leveraging these capabilities. With such a wide variety of healthcare business leveraging these existing
 capabilities we moved to q high level conceptual architecture of what the iDaaS platform looked like:
 <br/><br/>
-![iDaaS Dataflow](../../images/iDaaSPlatform-iDaaSDataFlow-Detailed.png)
+![iDaaS Dataflow](../../images/iDAASPlatform-iDaaSDataFlow-Detailed.png)
 
 ## Extensible Architecture 
 After validating and vetting the high level conceptual architecture of what the iDaaS platform looked like we 

@@ -15,8 +15,8 @@ Below are common links to help you navigate all the site content.
 |[General Background](../docs/General/Background.md)|[Architecture](../docs/Design/Architecture.md)|
 |[OpenSource](../docs/General/OpenSource.md)|[Design Principles](../docs/Design/DesignPrinciples.md)|
 |[Code of Conduct](../docs/General/CodeOfConduct.md)|[Capabilities](../docs/Design/Capabilities.md)|
-|[Fictious Org.](../docs/General/FictiousOrg.md)|[Platform Components](../docs/Design/PlatformComponents.md)|
-|[Technical Leadership](../docs/General/TechnicalLeadership.md)|[Integration Standards Support](../docs/Design/IntegrationStandardsSupport.md)|
+|[Fictious Org.](../docs/General/FictitiousOrg.md)|[Platform Components](../docs/Design/PlatformComponents.md)|
+|[Technical Leadership](../docs/General/TechnicalLeadership.md)|[Integration Standards Support](../docs/Design/IntegrationStandardsSupported.md)|
 
 | Technical |Use Cases |
 | -------------|----------|
