@@ -4,15 +4,7 @@ Red Hat business is built around pulling from upstream communities and making te
 <a href="https://github.com/Project-Herophilus" target="_blank">Project-Herophilus</a>. As we surveyed the healthcare community we believe this is the right move for this effort long term. Also, by doing this we are already starting to plan on other needed industry capabilities to help drive change. This will help us better support the healthcare industry and enable greater capabilities to be developed. As we start this shift here is a visual that shows how to think about this.
 ![iDaaS Upstream](../../images/iDAASPlatform-Visuals-iDAASUpstream.png)
 
-We are so excited about the possibilities and potential. With all this being said, <b>it was important for our code to be completely open and available with Apache 2 License!!</b>
-We are sure you have doubts and questions like:           
-
-* I already have an integration engine or enterprise application integration platform? You should not replace an existing integration engine or EAI platform, that would take time with lots of coordination. We would argue it is working for the masses then you should keep it in place. Do you view that platform as strategic or innovative though? Probably not, but it can provide access to existing information for business efforts though. Why not use it for what is good at and build innovation atop it. You can also enable innovation at an enterprise, organization or team level with this model without sacrificing security.
-* I have heard all of this before and I am still not seeing any industry progress? The industry is evolving and changing. Digital in healthcare, along with several other factors, is causing the entire way healthcare data to not only be re-imagined but re-evaluated. This is forcing various changes including
-  new and more modern integration standards.
-* Why would you do this? Its time to help lead and drive change.
-
-Has anyone run the risk and put their code and all their work out there for the masses to leverage in this manner? The upstream open source projects our core to our culture is all about open source and an open-source mindset. Because of this we decided to follow those practices for everything for this effort. We also have and will continue to publish onto Git Hub through our organization.
+We are so excited about the possibilities and potential.
 
 Our culture is all about open source and open source mindset because of this we decided to follow those practices for everything for this effort. All the assets are published onto Git Hub through our <a href="https://github.com/RedHat-Healthcare/" target="_blank"> organization</a>. Our intent is to build and enable healthcare platforms and enable an open source healthcare community. As part of this community we wanted to provide our expectations on how we expect those to behave that join the <a href="/home/CodeOfConduct" target="_blank">community</a>. 
 

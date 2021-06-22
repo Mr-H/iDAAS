@@ -44,6 +44,12 @@ adoption will dramatically increase with government mandates from CMS directly n
 We have decided to focus on what CMS has defined as the standard for Interoperability and Patient Access final rule. 
 A FHIR Server is not required for our implementation or CMS compliance; however, these servers can help organizations with capabilities they might need. The Intelligent DaaS (Data as a Service) Connect FHIR component is designed to connect to multiple vendor implementations of FHIR servers in a repeatable manner. 
 
+### Other
+
+|Resource| 
+|----------| 
+|<a href="https://www.hl7.org/fhir/binary.html" target="_blank">Binary</a>|
+
 ### Clinical
 
 |Resource| 
@@ -66,6 +72,7 @@ A FHIR Server is not required for our implementation or CMS compliance; however,
 |<a href="https://www.hl7.org/fhir/diagnosticresult.html" target="_blank">Diagnostic Result</a>|
 |<a href="https://www.hl7.org/fhir/encounter.html" target="_blank">Encounter</a>|
 |<a href="https://www.hl7.org/fhir/episodeofcare.html" target="_blank">Episode of Care</a>|
+|<a href="https://www.hl7.org/fhir/genomics.html" target="_blank">Genomics</a>|
 |<a href="https://www.hl7.org/fhir/goal.html" target="_blank">Goal</a>|
 |<a href="https://www.hl7.org/fhir/healthcareservice.html" target="_blank">Healthcare Service</a>|
 |<a href="https://www.hl7.org/fhir/imagingstudy.html" target="_blank">Imaging Study</a>|
@@ -74,7 +81,8 @@ A FHIR Server is not required for our implementation or CMS compliance; however,
 |<a href="https://www.hl7.org/fhir/deviceusestatement.html" target="_blank">Device Use Statement</a>|
 |<a href="https://www.hl7.org/fhir/medicationadministration.html" target="_blank">Medication Administration</a>|
 |<a href="https://www.hl7.org/fhir/medicationdispense.html" target="_blank">Medication Dispense</a>|
-|<a href="https://www.hl7.org/fhir/medicationrequest.html" target="_blank">Medication Request</a>|
+|<a href="https://www.hl7.org/fhir/molecularsequence.html" target="_blank">Molecular Research</a>|
+|<a href="https://www.hl7.org/fhir/molecularsequence.html" target="_blank">Molecular Sequence</a>|
 |<a href="https://www.hl7.org/fhir/observation.html" target="_blank">Observation</a>|
 |<a href="https://www.hl7.org/fhir/organization.html" target="_blank">Organization</a>|
 |<a href="https://www.hl7.org/fhir/organizationaffiliation.html" target="_blank">Organization Affiliation</a>|
