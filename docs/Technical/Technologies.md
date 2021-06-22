@@ -33,7 +33,7 @@ because there is wide adoption of these within healthcare. The first few impleme
 well finalize data model validation. We also intend to expand towards NoSQL standards
 quickly as we continue to implement new features. Connected Health/iDaaS overall objective 
 is to ensure we help define data as an asset.
-# Hybrid-Cloud</td>
+# Hybrid-Cloud
 When and where possible this reference aarchitecture/design pattern is completely designed to be cloud native. The ONLY exception is when we have to deal with specific
 industry needs that cannot be done with a cloud native manner. In healthcare this refers specifically to HL7 v2 messaging. The reason is this form of messaging is legacy based on
 the client-server socket paradigm and is meant to be long running. However, ALL any FHIR components are cloud native by design. For our container capabilities we focused
