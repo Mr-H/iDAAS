@@ -7,6 +7,7 @@ description: "General Capabilities"
 ---
 
 # Detailed Capabilities
+
 | Capability | Capability Area  | Description  |
 |---|---|---|
 | Receive | Integration | Receive data from various formats. We have branded this capability iDaaS Connect. iDaaS Connect has seevral specific projects to ensure focus on delivering specific capabilities. These capabilities extend from receiving data we focus on industry standards to third party connectivity. Industry standards support include HL7 v2, FHIR, and EDI Claims. There are potential future plans for NCPDP and HL7 v3 message support being discussed. From a third party connectivity perspective we focus on building an on-ramp for data to be leveraged within iDaaS for over 75 common protocols like: JDBC data sources, File, FTP, SFTP, FTPS, APIs, WSDL, AS400, Mongo, Kafka, numerous cloud platforms and many more. |
