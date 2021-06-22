@@ -26,7 +26,7 @@ The Intelligent DaaS (Data as a Service) Platform has been tested and has the fo
 
 ## HL7
 |Message Trigger| Details |
-|:---------------| :--------------------- |
+|---------------|--------------------- |
 |<a href="https://datica.com/academy/hl7-201-the-admission-discharge-transfer-adt-message/" target="_blank">ADT</a> | Admissions, Discharges, Transfers - A01 to A61 Any v2 message version release| 
 |<a href="https://datica.com/academy/hl7-203-the-hl7-orm-order-entry-message/" target="_blank">ORM</a> | Orders |
 |<a href="https://www.lyniate.com/knowledge-hub/hl7-oru-message/" target="_blank">ORU</a> | Results|
