@@ -6,6 +6,8 @@ Red Hat business is built around pulling from upstream communities and making te
 
 We are so excited about the possibilities and potential.
 
-Our culture is all about open source and open source mindset because of this we decided to follow those practices for everything for this effort. All the assets are published onto Git Hub through our <a href="https://github.com/RedHat-Healthcare/" target="_blank"> organization</a>. Our intent is to build and enable healthcare platforms and enable an open source healthcare community. As part of this community we wanted to provide our expectations on how we expect those to behave that join the <a href="/home/CodeOfConduct" target="_blank">community</a>. 
-
-
+Our culture is all about open source and open source mindset because of this we decided to follow those 
+practices for everything for this effort. All the assets are published onto Git Hub through our
+<a href="https://github.com/RedHat-Healthcare/" target="_blank"> organization</a>. Our intent is to build and 
+enable healthcare platforms and enable an open source healthcare community. As part of this community we 
+wanted to provide our expectations on how we expect those to behave that join the [community](CodeOfConduct.png).
