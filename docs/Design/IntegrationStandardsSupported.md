@@ -8,6 +8,10 @@ description: "Industry Standard Support"
 
 # Intelligent DaaS (Data as a Service) Industry Standards Support
 
+This section is designed to cover all the various industry standards Intelligent DaaS support.
+
+
+## HL7
 Within the clinical integration space HL7.org is the group that manages and oversees the industry standards and has for 
 several decades. For specifics and details on all the specifications they manage in healthcare, please feel to visit 
 <a href="https://www.hl7.org/" target=_blank> HL7 Web Site</a>. HL7 is the oldest standards in healthcare for enabling systems integration, their focus is the clinical care side of 
@@ -22,11 +26,10 @@ of the time to receive transactions. As part of its communication it requires th
 acknowledged or negatively acknowledged during processing. Finally, healthcare systems and integrations typically 
 involve a FIFO based messaging pattern, every message must be processed in order.
 
-The Intelligent DaaS (Data as a Service) Platform has been tested and has the following HL7 v2 support.
+The Intelligent DaaS (Data as a Service) Platform has been tested and has the following HL7 v2 support, there is no notion of vendors within our implementations and we have working implementations with large and small EMR/EHR vendors.
 
-## HL7
 |Message Trigger| Details |
-|---------------|--------------------- |
+|------|------|
 |<a href="https://datica.com/academy/hl7-201-the-admission-discharge-transfer-adt-message/" target="_blank">ADT</a> | Admissions, Discharges, Transfers - A01 to A61 Any v2 message version release| 
 |<a href="https://datica.com/academy/hl7-203-the-hl7-orm-order-entry-message/" target="_blank">ORM</a> | Orders |
 |<a href="https://www.lyniate.com/knowledge-hub/hl7-oru-message/" target="_blank">ORU</a> | Results|
