@@ -9,16 +9,16 @@ powered with iDaaS.
 
 |Vendor|Image|
 |---|---|
-|Blue Prism|<img src="../../images/vendors/blueprism.png" alt="Blue Prism" width="300">|   
-|IBM Global Business Services|![IBMGBS-Logo](../../images/vendors/ibm_gbs.png)|   
-|Mobia|![Mobia-Logo](../../images/vendors/MOBIA_logo.png)|  
-|Parkar Consulting|![Parkar-Logo](../../images/vendors/parkarconsulting.png)|
-|Perficient |![Perficient-Logo](../../images/vendors/perficient.png)|
-|Prolifics|![Prolifics-Logo](../../images/vendors/prolifics.png)|   
-|Prospecta|![Prospecta-Logo](../../images/vendors/perspecta_logo.png)|   
-|TekSystems|![TeKSystems-Logo](../../images/vendors/teksystems-logo.jpg)|
-|Red Hat|![RedHat-Logo](../../images/vendors/redhat_logo.png)|   
-|Red Hat Services|![RedHatconsulting-Logo](../../images/vendors/redhat_services.png)|   
+|Blue Prism|<img src="../../images/vendors/blueprism.png" alt="Blue Prism Logo" width="300">|   
+|IBM Global Business Services|<img src="../../images/vendors/ibm_gbs.png" alt="IBM GBS Logo" width="300">|   
+|Mobia|<img src="../../images/vendors/MOBIA_logo.png" alt="Mobia Logo" width="300">|  
+|Parkar Consulting|<img src="../../images/vendors/parkarconsulting.png" alt="Parkar Consulting Logo" width="300">|
+|Perficient |<img src="../../images/vendors/perficient.png" alt="Perficient Logo" width="300">|
+|Prolifics|<img src="../../images/vendors/prolifics.png" alt="Prolifics Logo" width="300">|
+|Prospecta|<img src="../../images/vendors/prospecta.png" alt="Prospecta Logo" width="300">|   
+|TekSystems|<img src="../../images/vendors/teksystems.png" alt="TekSystem Logo" width="300">|
+|Red Hat|<img src="../../images/vendors/redhat_logo.png" alt="RedHat Logo" width="300">|   
+|Red Hat Services|<img src="../../images/vendors/redhat_services.png" alt="RedHat Services Logo" width="300">|   
 
 
 
