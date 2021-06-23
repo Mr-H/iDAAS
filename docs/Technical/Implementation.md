@@ -15,7 +15,7 @@ powered with iDaaS.
 |Parkar Consulting|<img src="../../images/vendors/parkarconsulting.png" alt="Parkar Consulting Logo" width="300">|
 |Perficient |<img src="../../images/vendors/perficient.png" alt="Perficient Logo" width="300">|
 |Prolifics|<img src="../../images/vendors/prolifics.png" alt="Prolifics Logo" width="300">|
-|Prospecta|<img src="../../images/vendors/perspecta_logo.png" alt="Prospecta Logo" width="300">|   
+|Perspecta|<img src="../../images/vendors/perspecta_logo.png" alt="Perspecta Logo" width="300">|   
 |TekSystems|<img src="../../images/vendors/teksystems.png" alt="TekSystem Logo" width="300">|
 |Red Hat|<img src="../../images/vendors/redhat_logo.png" alt="RedHat Logo" width="300">|   
 |Red Hat Services|<img src="../../images/vendors/redhat_services.png" alt="RedHat Services Logo" width="300">|   
