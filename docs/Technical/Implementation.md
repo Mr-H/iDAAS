@@ -10,8 +10,8 @@ powered with iDaaS.
 |Vendor|Image|
 |---|---|
 |Blue Prism|<img src="../../images/vendors/blueprism.png" alt="Blue Prism Logo" width="300">|   
-|IBM Global Business Services|<img src="../../images/vendors/ibm_gbs.png" alt="IBM GBS Logo" width="300">|   
-|Mobia|<img src="../../images/vendors/MOBIA_logo.png" alt="Mobia Logo" width="300">|  
+|IBM Global Business Services|<img src="../../images/vendors/ibm_gbs.png" alt="IBM GBS Logo" width="400">|   
+|Mobia|<img src="../../images/vendors/MOBIA_logo.png" alt="Mobia Logo" width="400">|  
 |Parkar Consulting|<img src="../../images/vendors/parkarconsulting.png" alt="Parkar Consulting Logo" width="300">|
 |Perficient |<img src="../../images/vendors/perficient.png" alt="Perficient Logo" width="300">|
 |Prolifics|<img src="../../images/vendors/prolifics.png" alt="Prolifics Logo" width="300">|
