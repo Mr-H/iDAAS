@@ -2,9 +2,9 @@
 iDaaS is enabling organizations to make data a product and build assets on top of it. 
 Because <b>"Data is the asset!!!"</b> iDaaS is about enabling information for knowledge 
 that can be used for action in a secure and scalable manner. Along with helping 
-organizations it is also being used and adopted by numerous system integrators .
-Since doing our first release in May of 2020 we have seen so appreciate of those 
-customers and systems integrators that have  implemented their solution or solutions 
+organizations it is also being used and adopted by numerous system integrators.
+Since doing our first release in May of 2020 we have seen so appreciated those 
+customers and systems integrators that have implemented their solution or solution offerings 
 powered with iDaaS.
 
 |Vendor|Image|
