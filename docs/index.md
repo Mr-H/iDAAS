@@ -25,8 +25,8 @@ Below are common links to help you navigate all the site content.
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
-built atop industry leading software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
-Data Integration is all about Data Innovation and all the things that can be done without data:
+built atop industry leading software. The sole purpose of ALL the capabilities we have enabled for healthcare is <b> Data as an Asset</b>. 
+Data Integration is all about Data Innovation and all the things that can be done with data:
 
 ![iDaaS Art of the Possible](../images/iDAASPlatform-iDaaSDataFlow-Detailed.png)
 
@@ -46,7 +46,7 @@ We are sure you have doubts and questions like:
   Digital in healthcare, along with several other factors, is causing the entire way healthcare data to not only be 
   re-imagined but re-evaluated. This is forcing various changes including
   new and more modern integration standards.
-* Why would you do this? Its time to help lead and drive change.
+* Why would you do this? It's time to help lead and drive change.
 
 Has anyone run the risk and put their code and all their work out there for the masses to leverage in this manner? The upstream open source projects our core to our culture is all about open source and an open-source mindset. Because of this we decided to follow those practices for everything for this effort. We also have and will continue to publish onto Git Hub through our organization.
 # Partnering to Delivery Industry Enablement
