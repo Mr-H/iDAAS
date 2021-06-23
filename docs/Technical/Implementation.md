@@ -9,7 +9,7 @@ powered with iDaaS.
 
 |Vendor|Image|
 |---|---|
-|Blue Prism|<img src="../../images/vendors/blueprism.png" alt="Blue Prism" width="480">|   
+|Blue Prism|<img src="../../images/vendors/blueprism.png" alt="Blue Prism" width="300">|   
 |IBM Global Business Services|![IBMGBS-Logo](../../images/vendors/ibm_gbs.png)|   
 |Mobia|![Mobia-Logo](../../images/vendors/MOBIA_logo.png)|  
 |Parkar Consulting|![Parkar-Logo](../../images/vendors/parkarconsulting.png)|
